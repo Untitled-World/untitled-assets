@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "current": "6.8.0.40",
+  "versions": [
+    {
+      "assetVersion": "6.8.0.40",
+      "appVersion": "6.8.1",
+      "capturedAt": "2026-09-19T15:14:41.687055+00:00",
+      "bundleCount": 94978,
+      "totalBytes": 85726913904,
+      "catalogSha256": "3d9cf2951ad19963382eb86b0ee5fca65988e8dff509864473fb390c0c351892"
+    }
+  ]
+}
