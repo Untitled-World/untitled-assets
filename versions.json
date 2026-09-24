@@ -8,7 +8,7 @@
       "capturedAt": "2026-09-19T15:14:41.687055+00:00",
       "bundleCount": 94978,
       "totalBytes": 85726913904,
-      "catalogSha256": "e3acdac6e10ad77a2b287fa830fdcc2a63fa5ba022b5a7009d10dae61eceaa3a"
+      "catalogSha256": "d75de3008d19b3f52cb58e824b6d9d3b90273ca159771375d1fe8b2d90528c30"
     },
     {
       "assetVersion": "6.8.0.50",
@@ -16,7 +16,7 @@
       "capturedAt": "2026-09-24T14:34:16.858091+00:00",
       "bundleCount": 95232,
       "totalBytes": 85949894435,
-      "catalogSha256": "877209f7a6b414e8a1716401204d33d461d99013a8d987d4511e69565be5c9ea"
+      "catalogSha256": "d4985fcd27d030eadfb0d0548beb12dfc6c204eb4b7f0539a66c7ecb0bbd736c"
     }
   ]
 }
