@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "region": "jp",
+  "platform": "android",
+  "capturedAt": "2026-09-24T14:34:16.858091+00:00",
+  "appVersion": "6.8.1",
+  "abVersion": "6.8.0",
+  "assetVersion": "6.8.0.50",
+  "assetHash": null,
+  "assetHostHash": "cf2d2388",
+  "bundleCount": 95232,
+  "totalBytes": 85949894435,
+  "catalogSha256": "877209f7a6b414e8a1716401204d33d461d99013a8d987d4511e69565be5c9ea",
+  "categories": {
+    "AdditionalVoice": 2803,
+    "MysekaiVoice": 4788,
+    "OnDemand": 55492,
+    "StartApp": 32104,
+    "Tutorial": 45
+  }
+}

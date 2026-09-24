@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "current": "6.8.0.40",
+  "current": "6.8.0.50",
   "versions": [
     {
       "assetVersion": "6.8.0.40",
@@ -9,6 +9,14 @@
       "bundleCount": 94978,
       "totalBytes": 85726913904,
       "catalogSha256": "e3acdac6e10ad77a2b287fa830fdcc2a63fa5ba022b5a7009d10dae61eceaa3a"
+    },
+    {
+      "assetVersion": "6.8.0.50",
+      "appVersion": "6.8.1",
+      "capturedAt": "2026-09-24T14:34:16.858091+00:00",
+      "bundleCount": 95232,
+      "totalBytes": 85949894435,
+      "catalogSha256": "877209f7a6b414e8a1716401204d33d461d99013a8d987d4511e69565be5c9ea"
     }
   ]
 }
