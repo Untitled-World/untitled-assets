@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "fromVersion": "6.8.0.40",
   "toVersion": "6.8.0.50",
-  "oldCatalogSha256": "e3acdac6e10ad77a2b287fa830fdcc2a63fa5ba022b5a7009d10dae61eceaa3a",
-  "newCatalogSha256": "877209f7a6b414e8a1716401204d33d461d99013a8d987d4511e69565be5c9ea",
+  "oldCatalogSha256": "d75de3008d19b3f52cb58e824b6d9d3b90273ca159771375d1fe8b2d90528c30",
+  "newCatalogSha256": "d4985fcd27d030eadfb0d0548beb12dfc6c204eb4b7f0539a66c7ecb0bbd736c",
   "summary": {
     "before": 94978,
     "after": 95232,
